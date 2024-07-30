@@ -1,9 +1,9 @@
-### Bom dia, Boa tarde e Boa noite🙂
+# Bom dia, Boa tarde e Boa noite🙂
 
-Meu nome é Wallyson PInheiro
+ Meu nome é Wallyson PInheiro
 
--Tenho 16 anos
--Estou estudando no Alura
+- Tenho 16 anos
+- Estou estudando no Alura
 
 <!--
 **WallysonPinheiro/WallysonPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
